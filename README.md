@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](v)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/10477283/engin-veske)](https://stackoverflow.com/users/14251728/ahmad-zaky)
-[![GitHub followers](https://img.shields.io/github/followers/EngincanV.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ahhzaky?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/ahhzaky.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ahhzaky?tab=followers)
 
 **👨🏻‍💻 Currently working on:** 
 
