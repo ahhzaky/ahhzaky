@@ -18,5 +18,3 @@ Member of:
 
 <code><a href="https://buildwithangga.com/" target="_blank"><img height="50" src="https://www.buildwithangga.com/themes/front/images/logo-bwa.png"></a></code>
 <code><a href="https://buildwithangga.com/" target="_blank"><img height="50" src="https://www.dqlab.id/files/dqlab/cache/6b8c33bdec694a9af1b696bef97d2d25_x_Thumbnail200.png"></a></code>
-
-https://www.dqlab.id/files/dqlab/cache/6b8c33bdec694a9af1b696bef97d2d25_x_Thumbnail200.png
