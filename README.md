@@ -12,8 +12,9 @@
 <code><a href="https://firebase.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a></code>
 
 
-![EngincanV's github stats](https://github-readme-stats.vercel.app/api?username=ahhzaky&show_icons=true&line_height=30) ![EngincanV's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ahhzaky&show_icons=true&line_height=30)
 
+![EngincanV's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ahhzaky&show_icons=true&line_height=30)
+![EngincanV's github stats](https://github-readme-stats.vercel.app/api?username=ahhzaky&show_icons=true&line_height=30) 
 
 
 🌱 Learning all about **Open Source**
