@@ -19,7 +19,7 @@
 
 ![EngincanV's github stats](https://github-readme-stats.vercel.app/api?username=ahhzaky&show_icons=true&line_height=30)
 
-![EngincanV's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ahhzaky&show_icons=true&line_height=30)
+![EngincanV's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ahhzaky&layout=compact&show_icons=true&line_height=30)
 
 ![EngincanV's github stats](https://github-readme-stats.vercel.app/api/wakatime?username=ahhzaky)
 
