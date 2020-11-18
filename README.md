@@ -18,6 +18,3 @@
 
 🌱 Learning all about **Open Source**
 
-Member of:
-
-<code><a href="https://buildwithangga.com/" target="_blank"><img height="50" src="https://www.buildwithangga.com/themes/front/images/logo-bwa.png"></a></code>
