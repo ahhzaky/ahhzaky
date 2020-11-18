@@ -13,10 +13,6 @@
 <code><a href="https://www.netlify.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg"></a></code>
 
 
-
-![Zaky's github stats](https://github-readme-stats.vercel.app/api?username=ahhzaky&show_icons=true&line_height=30)
-
-
 ![Zaky's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ahhzaky&layout=compact&show_icons=true&line_height=30)
 
 
