@@ -2,13 +2,14 @@
 
 **👨🏻‍💻 Currently working on:** 
 
-<code><a href="https://golang.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg"></a></code>
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></a></code>
-<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
-<code><a href="https://www.rust-lang.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-<code><a href="https://flutter.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></a></code>
-<code><a href="https://www.netlify.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg"></a></code>
+**Github Stats:**
+
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=verma-anushka&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verma-anushka&count_private=true&theme=dracula">
+
+</p>
 
 🌱 Learning all about **Open Source**
 
