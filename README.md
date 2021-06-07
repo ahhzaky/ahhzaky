@@ -1,6 +1,9 @@
 ### Ahmad Zaky 👨‍💻
 
+![My Codewarrior Profile Badge](https://www.codewars.com/users/Ahmad%20Zaky/badges/micro)
+
 **👨🏻‍💻 Currently working on:** 
+
 
 ---
 
@@ -12,6 +15,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahhzaky&count_private=true&theme=dracula">
 
 </p>
+
 
 ---
 
