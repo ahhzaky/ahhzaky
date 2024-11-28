@@ -5,6 +5,8 @@
 
 ## Programming Languages & Tools
 
+<img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width='30px' style='padding-right: 10px;'/>
+<img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width='30px' style='padding-right: 10px;'/>
 <img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width='30px' style='padding-right: 10px;'/>
 <img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='30px' style='padding-right: 10px;'/>
 <img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width='30px' style='padding-right: 10px;'/>
@@ -33,6 +35,12 @@
 <img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width='30px' style='padding-right: 10px;'/>
 <img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width='30px' style='padding-right: 10px;'/>
 <img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width='30px' style='padding-right: 10px;'/>
+<img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width='30px' style='padding-right: 10px;'/>
+<img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width='30px' style='padding-right: 10px;'/>
+<img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width='30px' style='padding-right: 10px;'/>
+<img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width='30px' style='padding-right: 10px;'/>
+<img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width='30px' style='padding-right: 10px;'/>
+<img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width='30px' style='padding-right: 10px;'/>
 
 <br />
 <br />
