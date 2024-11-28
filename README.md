@@ -60,7 +60,5 @@
 ## Github Stats
 
 ![ahhzaky Github stats](https://github-readme-stats.vercel.app/api?username=ahhzaky&show_icons=true&theme=tokyonight)
-<br/>
-[![J$ckF4raday](https://www.hackthebox.eu/badge/image/926977)](https://www.hackthebox.eu/home/users/profile/926977)
 
 🌱 Learning all about **Open Source**
